@@ -33,10 +33,7 @@ To start the frontend, follow these steps:
 To start the backend Spring Boot server:
 
 1. Navigate to the `server` directory.
-2. Run the backend server using your preferred method or using:
-    ```
-        mvn spring-boot:run
-        ```
+2. Run the backend server using your preferred method or using `mvn spring-boot:run`
 
 ## Directory Structure
 
