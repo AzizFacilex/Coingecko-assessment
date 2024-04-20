@@ -18,6 +18,12 @@ This repository contains the implementation of a web application designed to int
 - **Database**: in-memory storage
 - **Chart Library**: recharts
 
+## Features Implemented
+
+- Caching history prices using localstorage
+- Frontend responsiveness on different resolutions (Mobile and PC)
+- Dynamic Chart update
+
 ## Getting Started
 
 ### Frontend
